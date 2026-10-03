@@ -1,0 +1,542 @@
+[
+    {
+        "post_id": 49934228,
+        "title": "Big Tech ruined the cloud, so we're renaming ours",
+        "category": "technology",
+        "score": 83,
+        "num_comments": 16,
+        "author": "2sf5",
+        "collected_at": "2026-10-02T21:15:50.899593"
+    },
+    {
+        "post_id": 49934487,
+        "title": "AI Makes Me Sad",
+        "category": "technology",
+        "score": 51,
+        "num_comments": 27,
+        "author": "mondobe",
+        "collected_at": "2026-10-02T21:15:51.642117"
+    },
+    {
+        "post_id": 49925653,
+        "title": "Giving friends custom text buzzes based on Morse code",
+        "category": "technology",
+        "score": 16,
+        "num_comments": 1,
+        "author": "evakhoury",
+        "collected_at": "2026-10-02T21:15:54.374048"
+    },
+    {
+        "post_id": 49934502,
+        "title": "Mozilla shutting down Solo AI website creator",
+        "category": "technology",
+        "score": 7,
+        "num_comments": 3,
+        "author": "nedrylandJP",
+        "collected_at": "2026-10-02T21:15:57.068286"
+    },
+    {
+        "post_id": 49933819,
+        "title": "We're Missing a Key Reason Why Americans Hate AI",
+        "category": "technology",
+        "score": 4,
+        "num_comments": 0,
+        "author": "abe94",
+        "collected_at": "2026-10-02T21:16:11.486408"
+    },
+    {
+        "post_id": 49926628,
+        "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+        "category": "technology",
+        "score": 234,
+        "num_comments": 195,
+        "author": "rafaelc",
+        "collected_at": "2026-10-02T21:16:36.572055"
+    },
+    {
+        "post_id": 49934569,
+        "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+        "category": "technology",
+        "score": 5,
+        "num_comments": 0,
+        "author": "Betelbuddy",
+        "collected_at": "2026-10-02T21:16:41.593771"
+    },
+    {
+        "post_id": 49923466,
+        "title": "RIP, vector database",
+        "category": "technology",
+        "score": 366,
+        "num_comments": 102,
+        "author": "razin",
+        "collected_at": "2026-10-02T21:16:46.121233"
+    },
+    {
+        "post_id": 49924618,
+        "title": "Vote on which of Hacker News' challenges for AI have been met",
+        "category": "technology",
+        "score": 183,
+        "num_comments": 223,
+        "author": "stabbles",
+        "collected_at": "2026-10-02T21:16:52.001586"
+    },
+    {
+        "post_id": 49921923,
+        "title": "Cloudflare K2: serverless event streams",
+        "category": "technology",
+        "score": 275,
+        "num_comments": 103,
+        "author": "elffjs",
+        "collected_at": "2026-10-02T21:17:01.668832"
+    },
+    {
+        "post_id": 49927587,
+        "title": "Aweb – Communication for AI Agents",
+        "category": "technology",
+        "score": 38,
+        "num_comments": 28,
+        "author": "gurjeet",
+        "collected_at": "2026-10-02T21:17:56.928387"
+    },
+    {
+        "post_id": 49927854,
+        "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
+        "category": "technology",
+        "score": 24,
+        "num_comments": 13,
+        "author": "AnthusAI",
+        "collected_at": "2026-10-02T21:18:22.003579"
+    },
+    {
+        "post_id": 49922736,
+        "title": "Identity Management for Agentic AI [pdf] (2025)",
+        "category": "technology",
+        "score": 75,
+        "num_comments": 25,
+        "author": "cgeier",
+        "collected_at": "2026-10-02T21:18:52.788316"
+    },
+    {
+        "post_id": 49922212,
+        "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
+        "category": "technology",
+        "score": 87,
+        "num_comments": 29,
+        "author": "spy888",
+        "collected_at": "2026-10-02T21:19:37.265519"
+    },
+    {
+        "post_id": 49931596,
+        "title": "Taliban suspends fiber optic network maintenance and expansion",
+        "category": "technology",
+        "score": 15,
+        "num_comments": 4,
+        "author": "walrus01",
+        "collected_at": "2026-10-02T21:19:39.883337"
+    },
+    {
+        "post_id": 49903713,
+        "title": "Responsible Release of AI-Generated Mathematics",
+        "category": "technology",
+        "score": 121,
+        "num_comments": 201,
+        "author": "aureianimus",
+        "collected_at": "2026-10-02T21:19:55.054013"
+    },
+    {
+        "post_id": 49924543,
+        "title": "The GPU Black Market That Washington Can't Shut Down",
+        "category": "technology",
+        "score": 35,
+        "num_comments": 9,
+        "author": "ilreb",
+        "collected_at": "2026-10-02T21:19:58.178585"
+    },
+    {
+        "post_id": 49928566,
+        "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+        "category": "technology",
+        "score": 24,
+        "num_comments": 9,
+        "author": "alstonite",
+        "collected_at": "2026-10-02T21:20:02.339866"
+    },
+    {
+        "post_id": 49918161,
+        "title": "Suits Are Better Tech Than Modern Clothes",
+        "category": "technology",
+        "score": 87,
+        "num_comments": 185,
+        "author": "orphereus",
+        "collected_at": "2026-10-02T21:20:28.994644"
+    },
+    {
+        "post_id": 49912048,
+        "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+        "category": "technology",
+        "score": 105,
+        "num_comments": 30,
+        "author": "lashkari",
+        "collected_at": "2026-10-02T21:20:30.265772"
+    },
+    {
+        "post_id": 49906637,
+        "title": "You said no MCP",
+        "category": "technology",
+        "score": 676,
+        "num_comments": 362,
+        "author": "yarapavan",
+        "collected_at": "2026-10-02T21:20:39.470037"
+    },
+    {
+        "post_id": 49908962,
+        "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+        "category": "technology",
+        "score": 179,
+        "num_comments": 72,
+        "author": "ibobev",
+        "collected_at": "2026-10-02T21:20:47.476799"
+    },
+    {
+        "post_id": 49921050,
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "category": "technology",
+        "score": 205,
+        "num_comments": 156,
+        "author": "dgellow",
+        "collected_at": "2026-10-02T21:21:08.762065"
+    },
+    {
+        "post_id": 49926726,
+        "title": "Show HN: Rhun, an open-source code editor written in assembly",
+        "category": "technology",
+        "score": 59,
+        "num_comments": 41,
+        "author": "vladcodes",
+        "collected_at": "2026-10-02T21:21:45.672360"
+    },
+    {
+        "post_id": 49912955,
+        "title": "Surprisingly complex waves reveal the brain's inner workings",
+        "category": "technology",
+        "score": 251,
+        "num_comments": 96,
+        "author": "ibobev",
+        "collected_at": "2026-10-02T21:21:58.338249"
+    },
+    {
+        "post_id": 49929113,
+        "title": "How Singapore's government-run dating service works",
+        "category": "worldnews",
+        "score": 227,
+        "num_comments": 263,
+        "author": "danielfoster",
+        "collected_at": "2026-10-02T21:25:41.605380"
+    },
+    {
+        "post_id": 49920234,
+        "title": "Returning from vacation? The government can search your phone without a warrant",
+        "category": "worldnews",
+        "score": 387,
+        "num_comments": 360,
+        "author": "rbanffy",
+        "collected_at": "2026-10-02T21:26:33.058908"
+    },
+    {
+        "post_id": 49912048,
+        "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+        "category": "worldnews",
+        "score": 105,
+        "num_comments": 30,
+        "author": "lashkari",
+        "collected_at": "2026-10-02T21:27:41.578871"
+    },
+    {
+        "post_id": 49923944,
+        "title": "Breaking the Cipher of the Napoleonic war briefing, unread for 217 years",
+        "category": "worldnews",
+        "score": 22,
+        "num_comments": 0,
+        "author": "theanonymousone",
+        "collected_at": "2026-10-02T21:27:53.531353"
+    },
+    {
+        "post_id": 49931667,
+        "title": "OpenAI hacks 2nd Australian Government Department",
+        "category": "worldnews",
+        "score": 5,
+        "num_comments": 6,
+        "author": "killingtime74",
+        "collected_at": "2026-10-02T21:31:32.613517"
+    },
+    {
+        "post_id": 49931023,
+        "title": "I opened cockpit door while being attacked, says pilot of Dubai-Israel flight",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 8,
+        "author": "rmason",
+        "collected_at": "2026-10-02T21:31:38.269894"
+    },
+    {
+        "post_id": 49902093,
+        "title": "Floppy Emu Hardware Failure Analysis Results",
+        "category": "worldnews",
+        "score": 61,
+        "num_comments": 10,
+        "author": "zdw",
+        "collected_at": "2026-10-02T21:31:56.615467"
+    },
+    {
+        "post_id": 49925602,
+        "title": "Anatomy of a Lean Proof for Software Engineers",
+        "category": "worldnews",
+        "score": 6,
+        "num_comments": 0,
+        "author": "abiro",
+        "collected_at": "2026-10-02T21:31:58.983219"
+    },
+    {
+        "post_id": 49913364,
+        "title": "Dear Software Makers",
+        "category": "worldnews",
+        "score": 120,
+        "num_comments": 89,
+        "author": "speckx",
+        "collected_at": "2026-10-02T21:33:47.027143"
+    },
+    {
+        "post_id": 49920329,
+        "title": "VU Amsterdam awards honorary doctorate to Meredith Whittaker",
+        "category": "worldnews",
+        "score": 4,
+        "num_comments": 0,
+        "author": "sirolf1",
+        "collected_at": "2026-10-02T21:34:33.204994"
+    },
+    {
+        "post_id": 49927887,
+        "title": "Long-term nuclear waste warning messages",
+        "category": "worldnews",
+        "score": 11,
+        "num_comments": 3,
+        "author": "dmschulman",
+        "collected_at": "2026-10-02T21:35:22.464739"
+    },
+    {
+        "post_id": 49932606,
+        "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+        "category": "worldnews",
+        "score": 44,
+        "num_comments": 70,
+        "author": "xqcgrek2",
+        "collected_at": "2026-10-02T21:35:29.526040"
+    },
+    {
+        "post_id": 49926110,
+        "title": "War Bros Didn't Always Rule Silicon Valley",
+        "category": "worldnews",
+        "score": 9,
+        "num_comments": 0,
+        "author": "gmays",
+        "collected_at": "2026-10-02T21:38:08.877569"
+    },
+    {
+        "post_id": 49931240,
+        "title": "Trump renaming AI to SI is making his wife's home country a little richer",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 0,
+        "author": "bundie",
+        "collected_at": "2026-10-02T21:38:10.249368"
+    },
+    {
+        "post_id": 49869755,
+        "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+        "category": "worldnews",
+        "score": 161,
+        "num_comments": 75,
+        "author": "evakhoury",
+        "collected_at": "2026-10-02T21:39:08.828397"
+    },
+    {
+        "post_id": 49921065,
+        "title": "A US Spyware King",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 0,
+        "author": "ledoge",
+        "collected_at": "2026-10-02T21:39:44.638463"
+    },
+    {
+        "post_id": 49914880,
+        "title": "A Cold War Spy Satellite Named After Farrah Fawcett Just Blew Apart in Orbit",
+        "category": "worldnews",
+        "score": 24,
+        "num_comments": 4,
+        "author": "PLenz",
+        "collected_at": "2026-10-02T21:40:29.313194"
+    },
+    {
+        "post_id": 49901351,
+        "title": "Climate Essay: The Inconvenient Truth Behind the Inconvenient Truth (2026)",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 4,
+        "author": "sceeene",
+        "collected_at": "2026-10-02T21:40:49.389293"
+    },
+    {
+        "post_id": 49900553,
+        "title": "Replica-aware routing public beta",
+        "category": "worldnews",
+        "score": 3,
+        "num_comments": 0,
+        "author": "sichenzhao",
+        "collected_at": "2026-10-02T21:42:23.376809"
+    },
+    {
+        "post_id": 49908610,
+        "title": "Cold War espionage added $4.6B to East Germany's economy",
+        "category": "worldnews",
+        "score": 13,
+        "num_comments": 1,
+        "author": "snarky-comments",
+        "collected_at": "2026-10-02T21:42:28.262353"
+    },
+    {
+        "post_id": 49891989,
+        "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+        "category": "worldnews",
+        "score": 7,
+        "num_comments": 1,
+        "author": "FabCH",
+        "collected_at": "2026-10-02T21:42:43.070309"
+    },
+    {
+        "post_id": 49913312,
+        "title": "Government AI Chatbot Reprogrammed to Stop Fact-Checking President",
+        "category": "worldnews",
+        "score": 7,
+        "num_comments": 0,
+        "author": "worik",
+        "collected_at": "2026-10-02T21:43:00.431046"
+    },
+    {
+        "post_id": 49927949,
+        "title": "China's Crowded EV Car Industry Moves Toward Consolidation",
+        "category": "worldnews",
+        "score": 5,
+        "num_comments": 1,
+        "author": "bookofjoe",
+        "collected_at": "2026-10-02T21:43:14.939258"
+    },
+    {
+        "post_id": 49925261,
+        "title": "Sudo – A dedicated music player designed around listening to music",
+        "category": "sports",
+        "score": 46,
+        "num_comments": 75,
+        "author": "kapsteur",
+        "collected_at": "2026-10-02T21:44:55.219560"
+    },
+    {
+        "post_id": 49901999,
+        "title": "Hacking SimCity 2000 saved games",
+        "category": "sports",
+        "score": 44,
+        "num_comments": 25,
+        "author": "zdw",
+        "collected_at": "2026-10-02T21:47:06.479984"
+    },
+    {
+        "post_id": 49926691,
+        "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+        "category": "sports",
+        "score": 10,
+        "num_comments": 11,
+        "author": "ahoskins",
+        "collected_at": "2026-10-02T21:48:17.594911"
+    },
+    {
+        "post_id": 49924299,
+        "title": "Sony released the first CD audio player on this day in 1982",
+        "category": "sports",
+        "score": 15,
+        "num_comments": 8,
+        "author": "Brajeshwar",
+        "collected_at": "2026-10-02T21:50:34.797105"
+    },
+    {
+        "post_id": 49899004,
+        "title": "Galaxy Game",
+        "category": "sports",
+        "score": 20,
+        "num_comments": 3,
+        "author": "rbanffy",
+        "collected_at": "2026-10-02T21:50:37.927202"
+    },
+    {
+        "post_id": 49903383,
+        "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+        "category": "sports",
+        "score": 56,
+        "num_comments": 33,
+        "author": "peter_d_sherman",
+        "collected_at": "2026-10-02T21:51:14.458583"
+    },
+    {
+        "post_id": 49927907,
+        "title": "C64 Mercenary: a novel exploit bug in a 41-year-old game",
+        "category": "sports",
+        "score": 4,
+        "num_comments": 0,
+        "author": "birdculture",
+        "collected_at": "2026-10-02T21:51:26.780196"
+    },
+    {
+        "post_id": 49927872,
+        "title": "Cancel Your Subscription: a free browser game",
+        "category": "sports",
+        "score": 7,
+        "num_comments": 3,
+        "author": "kamphey",
+        "collected_at": "2026-10-02T21:51:28.401044"
+    },
+    {
+        "post_id": 49926787,
+        "title": "With most information hidden, the game Stratego had stumped AI–until now",
+        "category": "sports",
+        "score": 7,
+        "num_comments": 0,
+        "author": "samizdis",
+        "collected_at": "2026-10-02T21:52:00.241196"
+    },
+    {
+        "post_id": 49885493,
+        "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+        "category": "sports",
+        "score": 79,
+        "num_comments": 50,
+        "author": "thefourthchime",
+        "collected_at": "2026-10-02T21:52:46.240458"
+    },
+    {
+        "post_id": 49879707,
+        "title": "First DVD player announced Sept 26, 1996",
+        "category": "sports",
+        "score": 10,
+        "num_comments": 0,
+        "author": "ibobev",
+        "collected_at": "2026-10-02T21:53:52.172522"
+    },
+    {
+        "post_id": 49898805,
+        "title": "PS1 Game on ESP32-S3",
+        "category": "sports",
+        "score": 5,
+        "num_comments": 2,
+        "author": "dmonterocrespo",
+        "collected_at": "2026-10-02T21:54:04.650278"
+    }
+]
